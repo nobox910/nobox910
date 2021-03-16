@@ -11,8 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tamqm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tamqm" height="30" width="40" /></a>
-<a href="https://fb.com/tam.quan17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tam.quan17" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc_vkil7ftixw6ju52izybjq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc_vkil7ftixw6ju52izybjq" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tam.quan17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tam.quan17" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC_VKIl7FTiXw6JU52IZYBJQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc_vkil7ftixw6ju52izybjq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
