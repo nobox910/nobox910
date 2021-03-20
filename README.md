@@ -3,7 +3,7 @@
 
 <h3 align="center">I am coffee enthusiast, also a fan of Open Source. I live in Ho Chi Minh city, Vietnam. I worked at a big IT corporation, as well as a few small companies - some of which I even co-founded myself.</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif" width="300" alt="gif">
+<img align="right" src="./programmer.gif" width="300" alt="gif">
 
 - 💻 I am a Penetration Tester (Web/Mobile Application & Infra Pentest)
 
