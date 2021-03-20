@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tam</h1>
 <p align="center"><i>a penetration tester</i></p>
+
 <h3 align="center">I am coffee enthusiast, also a fan of Open Source. I live in Ho Chi Minh city, Vietnam. I worked at a big IT corporation, as well as a few small companies - some of which I even co-founded myself.</h3>
+
+<img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif" width="300" alt="gif">
+
+- 💻 I am a Penetration Tester (Web/Mobile Application & Infra Pentest)
 
 - 📝 I regularly write articles about Software Defined Radio (SDR) on [www2.t17lab.com](https://www2.t17lab.com)
 
 - 🎵 and own a music website [hires.fun](https://hires.fun)
 
-- 📫 How to reach me **tam.quanminh@gmail.com** || **tam.m.quan@owasp.org** || **hi@t17lab.com**
+- 📫 You can reach me via **tam.quanminh@gmail.com** || **tam.m.quan@owasp.org** || **hi@t17lab.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +40,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nobox910&theme=yeblu&show_icons=true&locale=en&hide_rank=true" alt="nobox910" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobox910&theme=yeblu&show_icons=true&locale=en&layout=compact" alt="nobox910" /></p>
-</br>
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nobox910)  
 
 
