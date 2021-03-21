@@ -42,8 +42,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nobox910&theme=yeblu&show_icons=true&locale=en&hide_rank=true" alt="nobox910" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobox910&theme=yeblu&show_icons=true&locale=en&layout=compact" alt="nobox910" /></p>
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nobox910)  
-
-
