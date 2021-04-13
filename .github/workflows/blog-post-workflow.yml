@@ -10,5 +10,5 @@ jobs:
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
-                max_post_count: "8"
+                max_post_count: "12"
                 feed_list: "https://www2.t17lab.com/feed/"
