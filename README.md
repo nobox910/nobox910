@@ -36,6 +36,8 @@
 - [Hướng dẫn kích hoạt Bias-T trên RTL-SDR v3](https://www2.t17lab.com/blog/huong-dan-kich-hoat-bias-t-tren-rtl-sdr-v3/)
 - [Thu tín hiệu bộ đàm sử dụng RTL-SDR](https://www2.t17lab.com/blog/thu-tin-hieu-bo-dam-su-dung-rtl-sdr/)
 - [Tổng hợp những mã code bí mật trên điện thoại Android](https://www2.t17lab.com/blog/tong-hop-nhung-ma-code-bi-mat-tren-dien-thoai-android/)
+- [Gói cài đặt SDR# và Plugin](https://www2.t17lab.com/blog/goi-cai-dat-sdr-va-plugin/)
+- [RTL-SDR hoạt động trên thiết bị Android](https://www2.t17lab.com/blog/rtl-sdr-hoat-dong-tren-thiet-bi-android/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Latest blog post workflow](https://github.com/nobox910/nobox910/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/nobox910/nobox910/actions/workflows/blog-post-workflow.yml)
