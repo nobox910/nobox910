@@ -11,8 +11,6 @@
 
 - 📝 I regularly write articles about Software Defined Radio (SDR) on [www2.t17lab.com](https://www2.t17lab.com)
 
-- 🎵 and own a music website [hires.fun](https://hires.fun)
-
 - 📫 You can reach me via **tam.quanminh@gmail.com** || **tam.m.quan@owasp.org** || **hi@t17lab.com**
 
 <h3 align="left">Connect with me:</h3>
