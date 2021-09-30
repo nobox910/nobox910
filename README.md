@@ -26,6 +26,7 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Thiết bị chuyển khe sim vật lý](https://www2.t17lab.com/blog/thiet-bi-chuyen-khe-sim-vat-ly/)
 - [Giới thiệu EvilCrow RF trong nghiên cứu an toàn sóng vô tuyến](https://www2.t17lab.com/blog/gioi-thieu-evilcrow-rf-trong-nghien-cuu-an-toan-song-vo-tuyen/)
 - [Tấn công máy tính sử dụng Teensy HID](https://www2.t17lab.com/blog/tan-cong-may-tinh-su-dung-teensy-hid/)
 - [Hướng dẫn jailbreak IPhone bằng Unc0ver](https://www2.t17lab.com/blog/huong-dan-jailbreak-iphone-bang-unc0ver/)
@@ -35,7 +36,6 @@
 - [Hướng dẫn kích hoạt Bias-T trên RTL-SDR v3](https://www2.t17lab.com/blog/huong-dan-kich-hoat-bias-t-tren-rtl-sdr-v3/)
 - [Thu tín hiệu bộ đàm sử dụng RTL-SDR](https://www2.t17lab.com/blog/thu-tin-hieu-bo-dam-su-dung-rtl-sdr/)
 - [Tổng hợp những mã code bí mật trên điện thoại Android](https://www2.t17lab.com/blog/tong-hop-nhung-ma-code-bi-mat-tren-dien-thoai-android/)
-- [Gói cài đặt SDR# và Plugin](https://www2.t17lab.com/blog/goi-cai-dat-sdr-va-plugin/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Latest blog post workflow](https://github.com/nobox910/nobox910/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/nobox910/nobox910/actions/workflows/blog-post-workflow.yml)
