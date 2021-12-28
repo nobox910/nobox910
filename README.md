@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles about Software Defined Radio (SDR) on [www2.t17lab.com](https://www2.t17lab.com)
 
-- 📫 You can reach me via **tam.quanminh@gmail.com** || **hi@t17lab.com**
+- 📫 You can reach me via **tam.quanminh[at]gmail[dot]com** || **hi[at]t17lab[dot]com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
