@@ -3,8 +3,6 @@
 
 <p align="center">I am coffee enthusiast :coffee:, a huge fan of craft beer :beers:, also a fan of Open Source :penguin: :octocat:. I live in Ho Chi Minh city, Vietnam. I worked at a big IT corporation, as well as a few small companies - some of which I even co-founded myself :office:.</p>
 
-![I am Nobox910](./nobox910_banner.png)
-
 <img align="right" src="./programmer.gif" width="300" alt="gif">
 
 - 💻 I am a Penetration Tester (Web/Mobile Application & Infra Pentest)
