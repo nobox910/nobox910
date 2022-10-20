@@ -27,7 +27,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hướng dẫn cài đặt GNU Radio &amp; GRGSM trên Ubuntu 20](https://www2.t17lab.com/blog/huong-dan-cai-dat-gnu-radio-grgsm-tren-ubuntu-20/)
-- [Phát hành Tài liệu SDRSharp phiên bản 4.2](https://www2.t17lab.com/blog/phat-hanh-tai-lieu-sdrsharp-phien-ban-4-2/)
+- [Phát hành Tài liệu SDRSharp phiên bản 5.3](https://www2.t17lab.com/blog/phat-hanh-tai-lieu-sdrsharp-phien-ban-5-3/)
 - [Thiết bị chuyển khe sim vật lý](https://www2.t17lab.com/blog/thiet-bi-chuyen-khe-sim-vat-ly/)
 - [Giới thiệu EvilCrow RF trong nghiên cứu an toàn sóng vô tuyến](https://www2.t17lab.com/blog/gioi-thieu-evilcrow-rf-trong-nghien-cuu-an-toan-song-vo-tuyen/)
 - [Tấn công máy tính sử dụng Teensy HID](https://www2.t17lab.com/blog/tan-cong-may-tinh-su-dung-teensy-hid/)
