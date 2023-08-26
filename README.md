@@ -26,7 +26,6 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Hướng dẫn đóng gói tập tin .jar](https://www2.t17lab.com/blog/huong-dan-dong-goi-tap-tin-jar/)
 - [Hướng dẫn cài đặt GNU Radio &amp; GRGSM trên Ubuntu 20](https://www2.t17lab.com/blog/huong-dan-cai-dat-gnu-radio-grgsm-tren-ubuntu-20/)
 - [Phát hành Tài liệu SDRSharp phiên bản 5.3](https://www2.t17lab.com/blog/phat-hanh-tai-lieu-sdrsharp-phien-ban-5-3/)
 - [Thiết bị chuyển khe sim vật lý](https://www2.t17lab.com/blog/thiet-bi-chuyen-khe-sim-vat-ly/)
@@ -36,6 +35,7 @@
 - [Hướng dẫn jailbreak IPhone bằng checkra1n](https://www2.t17lab.com/blog/huong-dan-jailbreak-iphone-bang-checkra1n/)
 - [Can nhiễu do hệ thống máy phát thanh FM đối với hệ thống dẫn đường không lưu](https://www2.t17lab.com/blog/can-nhieu-do-he-thong-may-phat-thanh-fm-doi-voi-he-thong-dan-duong-khong-luu/)
 - [Bộ ăng ten bảng tích cực băng tần L](https://www2.t17lab.com/blog/bo-ang-ten-tich-cuc-bang-tan-l/)
+- [Hướng dẫn kích hoạt Bias-T trên RTL-SDR v3](https://www2.t17lab.com/blog/huong-dan-kich-hoat-bias-t-tren-rtl-sdr-v3/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Latest blog post workflow](https://github.com/nobox910/nobox910/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/nobox910/nobox910/actions/workflows/blog-post-workflow.yml)
